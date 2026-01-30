@@ -1,8 +1,8 @@
 #!/bin/bash
 # -------------------------------------------------------------------------
-# Ubuntu Optimiser
+# Ubuntu Optimizer
 # Author: aeTunga
-# Repository: https://github.com/aeTunga/ubuntu-optimiser
+# Repository: https://github.com/aeTunga/ubuntu-optimizer
 # -------------------------------------------------------------------------
 
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
